@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/CLionProjects/untitled6/Apartment.h
+Property.h
+C:/Users/andre/CLionProjects/untitled6/Property.h
+
+C:/Users/andre/CLionProjects/untitled6/Car.h
+Property.h
+C:/Users/andre/CLionProjects/untitled6/Property.h
+
+C:/Users/andre/CLionProjects/untitled6/CountryHouse.h
+Property.h
+C:/Users/andre/CLionProjects/untitled6/Property.h
+
+C:/Users/andre/CLionProjects/untitled6/Property.h
+
+C:/Users/andre/CLionProjects/untitled6/main.cpp
+iostream
+-
+Car.h
+C:/Users/andre/CLionProjects/untitled6/Car.h
+CountryHouse.h
+C:/Users/andre/CLionProjects/untitled6/CountryHouse.h
+Apartment.h
+C:/Users/andre/CLionProjects/untitled6/Apartment.h
+
